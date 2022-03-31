@@ -19,7 +19,7 @@
 
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-5645343935667918~5092193354" />
+            android:value="ca-app-pub-5645343935667918~9999890747" />
 
         <activity
             android:name=".Volume"
